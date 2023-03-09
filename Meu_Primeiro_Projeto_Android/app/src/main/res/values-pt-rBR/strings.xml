@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meu_Primeiro_Projeto_Android</string>
+    <string name="result">Resultado</string>
+    <string name="type_your_name">Digite seu nome...</string>
+    <string name="send">Enviar</string>
+    <string name="hello_name">Olá, %1$s!</string>
+    <string name="send_to_result_screen">Enviar para Tela de Resultados</string>
+    <string name="open_screen_to_get_result">Abrir Tela para Receber Resultado</string>
+    <string name="yes">Sim</string>
+    <string name="no">Não</string>
+    <string name="cancel">Cancelar</string>
+    <string name="activity_was_cancelled">Tela foi Cancelada</string>
+    <string name="data_received">Dado recebido: %1$s</string>
+</resources>
